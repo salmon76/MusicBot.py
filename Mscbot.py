@@ -1,6 +1,6 @@
-# 896390171187085354 client invite
-# ODk2MzkwMTcxMTg3MDg1MzU0.YWGaZg.Cc00Bx9Rb2_Z1KUfafiNEX9ifEk Token
-# 137442380384 Permission
+# client invite
+# Token
+# Permission
 
 import discord
 
@@ -333,4 +333,4 @@ async def skip(ctx):
 
 
 
-bot.run('ODk2MzkwMTcxMTg3MDg1MzU0.YWGaZg.Cc00Bx9Rb2_Z1KUfafiNEX9ifEk')
+bot.run('[TOKEN]')
